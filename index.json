@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "multiIdiomas",
-    "slug": "multiIdiomas",
+    "name": "index",
+    "slug": "index",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
